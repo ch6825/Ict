@@ -1,0 +1,5 @@
+if test Score >= 80 THEN SEND 'A' TO DISPLAY
+IF testScore >= 70 'B' TO DISPLAY
+If testScore >=60 'C'TO DISPLAY
+If testScore >= 0 'D' TO DISPLAY
+SEND "FAIL' TO DISPLAY
